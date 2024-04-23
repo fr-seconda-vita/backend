@@ -16,3 +16,4 @@ services:
 
 volumes:
   data:
+#ignore for now : not functionnal
