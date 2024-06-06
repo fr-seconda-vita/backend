@@ -1,4 +1,4 @@
-package tlamon.perso.secondaVita.config;
+package tlamon.perso.secondaVita.security.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
